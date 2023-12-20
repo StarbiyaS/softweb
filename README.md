@@ -671,12 +671,12 @@ contactus.html
 
 
 ## OUTPUT:
-![Screenshot 2023-12-20 214754](https://github.com/StarbiyaS/softweb/assets/144870533/a8513556-d1ab-4cb6-99fd-4d68d3a771df)
+![Screenshot 2023-12-20 214754](https://github.com/StarbiyaS/softweb/assets/144870533/25c8b510-17ef-44ca-bdd2-f3b968ffa823)
+![Screenshot 2023-12-20 215542](https://github.com/StarbiyaS/softweb/assets/144870533/3cd303b5-dc7a-44f3-b4e3-610a88993d09)
 
-[![Alt text](<Screenshot 2023-12-20 222641.png>)
-Alt text](<Screenshot 2023-12-20 214754.png>)
-![last](https://github.com/StarbiyaS/softweb/assets/144870533/f88a36e7-4e9f-43ad-a10e-4b2df617e251)
+![Screenshot 2023-12-20 222641](https://github.com/StarbiyaS/softweb/assets/144870533/111410e4-7a01-44ef-adde-68837050a25d)
 
+![Screenshot 2023-12-20 232144](https://github.com/StarbiyaS/softweb/assets/144870533/9727d145-1090-4e7d-b865-7c36f61df35c)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
