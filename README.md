@@ -675,7 +675,8 @@ contactus.html
 
 [![Alt text](<Screenshot 2023-12-20 222641.png>)
 Alt text](<Screenshot 2023-12-20 214754.png>)
-![Alt text](last.png)
+![last](https://github.com/StarbiyaS/softweb/assets/144870533/f88a36e7-4e9f-43ad-a10e-4b2df617e251)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
