@@ -671,7 +671,8 @@ contactus.html
 
 
 ## OUTPUT:
-![Alt text](<Screenshot 2023-12-20 215542.png>)
+![Screenshot 2023-12-20 214754](https://github.com/StarbiyaS/softweb/assets/144870533/a8513556-d1ab-4cb6-99fd-4d68d3a771df)
+
 [![Alt text](<Screenshot 2023-12-20 222641.png>)
 Alt text](<Screenshot 2023-12-20 214754.png>)
 ![Alt text](last.png)
