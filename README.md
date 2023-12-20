@@ -671,7 +671,7 @@ contactus.html
 
 
 ## OUTPUT:
-!![Alt text](<Screenshot 2023-12-20 215542.png>)
+![Alt text](<Screenshot 2023-12-20 215542.png>)
 [![Alt text](<Screenshot 2023-12-20 222641.png>)
 Alt text](<Screenshot 2023-12-20 214754.png>)
 ![Alt text](last.png)
